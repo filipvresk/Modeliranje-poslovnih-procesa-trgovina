@@ -2,7 +2,7 @@
 
 ##  Opis projekta
 
-Ovaj projekt obuhvaća **modeliranje i analizu poslovnih procesa** u maloprodajnoj trgovini s ciljem identifikacije problema i predlaganja poboljšanja. Projekt se temelji na analizi stvarnog poslovanja maloprodajne trgovine te uključuje realne poslovne procese i scenarije.
+Ovaj projekt obuhvaća **modeliranje i analizu poslovnih procesa** u maloprodajnoj trgovini s ciljem identifikacije problema i predlaganja poboljšanja. Projekt se temelji na analizi stvarnog poslovanja maloprodajne trgovine te uključuje realne poslovne procese i scenarije. Analiza i optimizacija procesa izrađena je u alatu IBM WebSphere.
 
 Projekt je izrađen u sklopu kolegija **Modeliranje poslovnih procesa**.
 
