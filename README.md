@@ -2,7 +2,7 @@
 
 ##  Opis projekta
 
-Ovaj projekt obuhvaća **modeliranje i analizu poslovnih procesa** u maloprodajnoj trgovini s ciljem identifikacije problema i predlaganja poboljšanja.
+Ovaj projekt obuhvaća **modeliranje i analizu poslovnih procesa** u maloprodajnoj trgovini s ciljem identifikacije problema i predlaganja poboljšanja. Projekt se temelji na analizi stvarnog poslovanja maloprodajne trgovine te uključuje realne poslovne procese i scenarije.
 
 Projekt je izrađen u sklopu kolegija **Modeliranje poslovnih procesa**.
 
@@ -53,4 +53,15 @@ Simulacijom procesa utvrđeno je da optimizacije mogu značajno unaprijediti pos
 
 ---
 
+##  Doprinos
+
+Projekt je izrađen kao timski rad tijekom studija.  
+
+
+Moj doprinos uključuje:
+- analizu poslovnih procesa 
+- sudjelovanje u modeliranju i interpretaciji rezultata
+- izradu dokumentacije   
+
+---
 
